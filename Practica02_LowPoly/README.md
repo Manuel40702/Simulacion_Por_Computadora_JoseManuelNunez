@@ -1,6 +1,8 @@
 # Practica 02 LowPoly (Diorama).
 
 objetivo:
+
+
  -utilizar extrusión
  -utilizar cortes
  -utilizar  primitivas básicas
