@@ -8,3 +8,4 @@ objetivo:
 
 Desarrollo:
 Crea una diorama basado en bajos polígonos usando un programa de modelado 3D
+
