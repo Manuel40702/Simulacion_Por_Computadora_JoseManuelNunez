@@ -2,9 +2,22 @@
 
 objetivo:
 
- -utilizar extrusión \n
+ -utilizar extrusión
+
+
+
+ 
  -utilizar cortes
+
+
+
+ 
  -utilizar  primitivas básicas
+
+
+
+
+ 
  -utilizar herramientas de selección
 
 Desarrollo:
