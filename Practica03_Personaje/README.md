@@ -5,25 +5,25 @@
 
 
 
-utilizar extrusión
+- utilizar extrusión
 
 
 
 
 
-utilizar cortes
+- utilizar cortes
 
 
 
 
-utilizar  primitivas básicas
+- utilizar  primitivas básicas
 
 
 
 
 
-utilizar herramientas de selección
+- utilizar herramientas de selección
 
 
--. Desarrollo 
+-. Desarrollo: 
 Crea una personaje basado en bajos polígonos usando un programa de modelado 3D
