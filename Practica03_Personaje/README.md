@@ -1,8 +1,27 @@
 # Practica 03. Personaje
 -. Objetivo: 
-\n utilizar extrusión
+
+
+
+
+
+utilizar extrusión
+
+
+
+
+
 utilizar cortes
+
+
+
+
 utilizar  primitivas básicas
+
+
+
+
+
 utilizar herramientas de selección
 
 
