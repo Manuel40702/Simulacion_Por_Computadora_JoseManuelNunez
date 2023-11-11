@@ -1,2 +1,10 @@
-# Simulacion_Por_Computadora_JoseManuelNunez
-Repositorio para las prácticas de la materia Simulación por Computadora, sección: D05
+# Practica 03. Personaje
+-. objetivo
+utilizar extrusión
+utilizar cortes
+utilizar  primitivas básicas
+utilizar herramientas de selección
+
+
+-. Desarrollo 
+Crea una personaje basado en bajos polígonos usando un programa de modelado 3D
