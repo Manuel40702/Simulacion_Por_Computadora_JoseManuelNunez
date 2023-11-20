@@ -5,25 +5,7 @@
 
 
 
-- utilizar extrusión
-
-
-
-
-
-- utilizar cortes
-
-
-
-
-- utilizar  primitivas básicas
-
-
-
-
-
-- utilizar herramientas de selección
-
+- utilizar fisicas
 
 -. Desarrollo: 
-Crea una personaje basado en bajos polígonos usando un programa de modelado 3D
+Crea una simulación de líquidos en bajos polígonos usando un programa de modelado 3D.
