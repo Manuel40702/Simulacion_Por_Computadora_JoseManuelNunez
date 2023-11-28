@@ -1,6 +1,16 @@
-# Práctica 1.- Pirámide de Cubos
+# Práctica 1.- Simulación de colisión
 
-Objetivo: Conocer herramientas básicas  de modelado 3D
+Objetivo:
 
 
-Desarrollo: Crea un Pirámide hecha con cubos
+
+utilizar fisicas 
+
+
+utilizar cuerpos rígidos
+
+
+
+utilizar  modificadores
+
+Desarrollo: Crea una simulación de colisión basado en bajos polígonos usando un programa de modelado 3D.
